@@ -21,13 +21,15 @@ Test Assessment for Cricut
 
     Algorithm:
 
-        File Allocation - Allocating memory for File Strorage can be done contiguous block of memory for small files, linked or indexed allocation into multiple blocks liked or indexed for large files.
+        File Allocation - Allocating memory for File Strorage can be done
+         contiguous block of memory for small files, linked or indexed
+         allocation into multiple blocks liked or indexed for large files.
 
         File Access: Files can be accessed providing index or keys.
 
         Traversing the Directory: The directory can be traversed level by level starting from root or recursively.
 
-3. Tic Tac Toe Win
+4. Tic Tac Toe Win
    
    Refer TicTacToe.kt in com.satish.cricutassesment
 
